@@ -1,0 +1,6 @@
+# dados e imagens de medição ficam fora do repositório
+*.csv
+*.png
+.DS_Store
+__pycache__/
+liverscan/
