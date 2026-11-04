@@ -4,3 +4,5 @@
 .DS_Store
 __pycache__/
 liverscan/
+# firmware da Analog Devices nao vai para o repositorio (veja firmware/README.md)
+*.hex

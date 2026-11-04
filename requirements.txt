@@ -1,6 +1,6 @@
 numpy
 pandas
 matplotlib
-pyeit
+pyeit>=1.2
 pylibiio
 pyadi-iio
